@@ -7,6 +7,7 @@ By Day I work on Supply chain and Inventory Management Microservice applications
 By Night I try to develop myself and get a better understanding of Artificial intelligence, Data Science and Cybersecurity. I also involve myself in contributing to open source projects and use my cybersecurity skill's on various bug bounty programs.
 
 Skills: JAVA / PYTHON / NodeJS / HTML / CSS
+
 Frameworks: Spring Boot / Django / Express
 
 - 🌱 I’m currently learning Data Structure and Algorithm
