@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Sarbesh Sarkar
-#### I am a Software Developer at Rebel Foods
+#### I am a Software engineer at Rebel Foods
 
 A passionate backend developer from India,By Day I work on Supply chain and Inventory Management Microservice applications for Rebel Foods(World's largest internet restaurant company), I also having experience in spring cloud microservice architecture during my time at TCS working for a Banking client. 
 
@@ -16,7 +16,7 @@ Frameworks: Spring Boot / Django / Express
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarbesh&label=Profile%20views&color=0e75b6&style=flat" alt="sarbesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarbesh" alt="sarbesh" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarbesh" alt="sarbesh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sarbeshsarkar" target="blank"><img src="https://img.shields.io/twitter/follow/sarbeshsarkar?logo=twitter&style=for-the-badge" alt="sarbeshsarkar" /></a> </p>
 
