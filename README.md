@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Sarbesh Sarkar
-#### I am a Software engineer at Rebel Foods
+#### I am a Software Engineer at Rebel Foods
 
-A passionate backend developer from India,By Day I work on Supply chain and Inventory Management Microservice applications for Rebel Foods(World's largest internet restaurant company), I also having experience in spring cloud microservice architecture during my time at TCS working for a Banking client. 
+A passionate backend developer from India,By Day I work on Supply chain and Inventory Management Microservice applications for Rebel Foods(World's largest internet restaurant company), I also have experience in spring cloud during my time at TCS working for a Banking client. 
 
 By Night I try to develop myself and get a better understanding of Artificial intelligence, Data Science and Cybersecurity. I also involve myself in contributing to open source projects and use my cybersecurity skill's on various bug bounty programs.
 
