@@ -39,6 +39,6 @@ Frameworks: Spring Boot / Django / Express
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarbesh&show_icons=true&locale=en&layout=compact" alt="sarbesh" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sarbesh&show_icons=true&locale=en" alt="sarbesh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarbesh&show_icons=true&locale=en" alt="sarbesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarbesh&" alt="sarbesh" /></p>
